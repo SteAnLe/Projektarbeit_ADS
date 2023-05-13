@@ -1,0 +1,48 @@
+version: '3.8'
+
+networks:
+
+
+  ads-network:
+    driver: bridge
+
+services:
+
+  jupyter:
+    container_name: jupyter_notebook_container
+    build:
+        context: .
+        dockerfile: Dockerfile
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+    volumes:
+      - jupyter:/home/jovyan/work
+    ports:
+      - "8888:8888"
+    command: "start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''"
+    networks:
+      - ads-network
+
+
+  db:
+    container_name: postgresdb_container
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: secret
+      POSTGRES_DB: postgres
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+    networks:
+      - ads-network
+
+volumes:
+  jupyter:
+  pgdata:
+  
+  
+  
+  

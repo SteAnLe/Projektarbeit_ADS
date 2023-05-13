@@ -1,0 +1,51 @@
+#-------------------------------------------------------------------------------
+# Docker: Jupyter notebook with PostgreSQL database
+#-------------------------------------------------------------------------------
+
+--> Run Docker Desktop on your computer ...
+--> In Visual Studio Code, open the folder 'Docker_Compose_Jupyter_Notebook_PostgreSQL'
+--> In Visual Studio Code, open a Terminal window (Upper Menu or CTRL+SHIFT+¨)
+
+#-------------------------------------------------------------------------------
+# In the Terminal window in Visual Studio Code ...
+#-------------------------------------------------------------------------------
+
+# Execute docker-compose.yml 
+right menu -> Explorer -> right click on docker-compose.yml -> Compose up
+
+# Alternatively in the Terminal window type:
+docker compose up
+
+# Show docker image
+docker images
+
+# To access the Jupyter notebook, open the following url in a web browser
+# http://127.0.0.1:8888/lab?token=<token>
+
+#-------------------------------------------------------------------------------
+# In your Jupyter notebook ...
+#-------------------------------------------------------------------------------
+
+# Drag and drop the two files to your Jupyter notebook
+- jupyter_postgres_db.ipynb
+- apartments_data_prepared.csv
+
+# Run the Jupyter notebook 'jupyter_postgres_db.ipynb'
+
+# Include additional SQL queries and save the Jupyter notebook.
+
+# Stop the Jupyter notebook server
+CTRL+C
+
+#-------------------------------------------------------------------------------
+# In Docker Desktop ...
+#-------------------------------------------------------------------------------
+
+# Stop all running containers
+# right menu -> Containers -> check all containers -> pause button -> delete button
+
+
+
+
+
+
