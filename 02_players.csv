@@ -1,0 +1,521 @@
+id,rating,player_image,player_name,country_image,league_image,position,club,league,pace,shooting,passing,dribbling,defending,physical,limit
+005849d4-f72f-11ed-8195-acde48001122,68,,Eryk Williamson,,,CDM,Portland Timbers,Major League Soccer,70,57,67,71,63,69,500
+00adcc26-f723-11ed-8195-acde48001122,81,,Gareth Bale,,,RW,LAFC,Major League Soccer,80,84,81,79,55,69,500
+0136b046-f727-11ed-8195-acde48001122,75,,Cucho Hernandez,,,ST,Columbus Crew,Major League Soccer,82,75,65,73,42,74,500
+0169dad6-f72a-11ed-8195-acde48001122,72,,Matt Miazga,,,CB,FC Cincinnati,Major League Soccer,47,26,47,57,73,77,500
+01bba5c8-f720-11ed-8195-acde48001122,87,,Hany Mukhtar,,,CF,Nashville SC,Major League Soccer,90,84,86,87,55,76,500
+01dac4da-f72f-11ed-8195-acde48001122,68,,Cesar Araujo,,,CDM,Orlando City,Major League Soccer,62,53,56,63,63,68,500
+025b1d1a-f720-11ed-8195-acde48001122,87,,Thiago Martins,,,CB,New York City FC,Major League Soccer,84,57,72,77,87,88,500
+02660c68-f728-11ed-8195-acde48001122,74,,Gastón Gimenez,,,CDM,Chicago Fire FC,Major League Soccer,64,61,71,73,67,83,500
+02acbec4-f728-11ed-8195-acde48001122,74,,Albert Rusnak,,,CAM,Sounders FC,Major League Soccer,68,74,74,75,56,66,500
+03a1f130-f72a-11ed-8195-acde48001122,72,,Anton Tinnerholm,,,RB,New York City FC,Major League Soccer,71,52,66,69,68,75,500
+05e19828-f72b-11ed-8195-acde48001122,71,,Thiago Martins,,,CB,New York City FC,Major League Soccer,76,41,57,58,71,73,500
+05f91caa-f730-11ed-8195-acde48001122,68,,Chase Gasper,,,LB,LA Galaxy,Major League Soccer,78,34,55,63,65,72,500
+05ffc8dc-f723-11ed-8195-acde48001122,81,,Carlos Vela,,,RW,LAFC,Major League Soccer,77,79,76,83,30,64,500
+090621bc-f72c-11ed-8195-acde48001122,70,,Matt Polster,,,CDM,New England,Major League Soccer,48,46,66,64,65,79,500
+0ad3b5dc-f730-11ed-8195-acde48001122,68,,Xavier Arreaga,,,CB,Sounders FC,Major League Soccer,57,28,49,56,68,73,500
+0b58879c-f728-11ed-8195-acde48001122,74,,Luquinhas,,,LM,Red Bulls,Major League Soccer,82,67,68,79,35,57,500
+0c11023a-f724-11ed-8195-acde48001122,79,,Emanuel Reynoso,,,CAM,Minnesota United,Major League Soccer,67,67,78,80,59,67,500
+0c16002c-f725-11ed-8195-acde48001122,78,,Brenner,,,ST,FC Cincinnati,Major League Soccer,85,78,71,83,39,61,500
+0c50e24a-f72b-11ed-8195-acde48001122,71,,Christian Fuchs,,,CB,Charlotte FC,Major League Soccer,48,66,74,67,72,67,500
+0c771f82-f730-11ed-8195-acde48001122,68,,Martinez,,,CB,FC Dallas,Major League Soccer,44,36,51,53,68,72,500
+0c8ef91e-f725-11ed-8195-acde48001122,78,,Daniel Gazdag,,,CAM,Philadelphia,Major League Soccer,83,77,73,79,62,71,500
+005849d4-f72f-11ed-8195-acde48001122,68,,Eryk Williamson,,,CDM,Portland Timbers,Major League Soccer,70,57,67,71,63,69,1000
+00adcc26-f723-11ed-8195-acde48001122,81,,Gareth Bale,,,RW,LAFC,Major League Soccer,80,84,81,79,55,69,1000
+0136b046-f727-11ed-8195-acde48001122,75,,Cucho Hernandez,,,ST,Columbus Crew,Major League Soccer,82,75,65,73,42,74,1000
+0169dad6-f72a-11ed-8195-acde48001122,72,,Matt Miazga,,,CB,FC Cincinnati,Major League Soccer,47,26,47,57,73,77,1000
+01bba5c8-f720-11ed-8195-acde48001122,87,,Hany Mukhtar,,,CF,Nashville SC,Major League Soccer,90,84,86,87,55,76,1000
+01dac4da-f72f-11ed-8195-acde48001122,68,,Cesar Araujo,,,CDM,Orlando City,Major League Soccer,62,53,56,63,63,68,1000
+025b1d1a-f720-11ed-8195-acde48001122,87,,Thiago Martins,,,CB,New York City FC,Major League Soccer,84,57,72,77,87,88,1000
+02660c68-f728-11ed-8195-acde48001122,74,,Gastón Gimenez,,,CDM,Chicago Fire FC,Major League Soccer,64,61,71,73,67,83,1000
+02acbec4-f728-11ed-8195-acde48001122,74,,Albert Rusnak,,,CAM,Sounders FC,Major League Soccer,68,74,74,75,56,66,1000
+03a1f130-f72a-11ed-8195-acde48001122,72,,Anton Tinnerholm,,,RB,New York City FC,Major League Soccer,71,52,66,69,68,75,1000
+05e19828-f72b-11ed-8195-acde48001122,71,,Thiago Martins,,,CB,New York City FC,Major League Soccer,76,41,57,58,71,73,1000
+05f91caa-f730-11ed-8195-acde48001122,68,,Chase Gasper,,,LB,LA Galaxy,Major League Soccer,78,34,55,63,65,72,1000
+05ffc8dc-f723-11ed-8195-acde48001122,81,,Carlos Vela,,,RW,LAFC,Major League Soccer,77,79,76,83,30,64,1000
+090621bc-f72c-11ed-8195-acde48001122,70,,Matt Polster,,,CDM,New England,Major League Soccer,48,46,66,64,65,79,1000
+0ad3b5dc-f730-11ed-8195-acde48001122,68,,Xavier Arreaga,,,CB,Sounders FC,Major League Soccer,57,28,49,56,68,73,1000
+0b58879c-f728-11ed-8195-acde48001122,74,,Luquinhas,,,LM,Red Bulls,Major League Soccer,82,67,68,79,35,57,1000
+0c11023a-f724-11ed-8195-acde48001122,79,,Emanuel Reynoso,,,CAM,Minnesota United,Major League Soccer,67,67,78,80,59,67,1000
+0c16002c-f725-11ed-8195-acde48001122,78,,Brenner,,,ST,FC Cincinnati,Major League Soccer,85,78,71,83,39,61,1000
+0c50e24a-f72b-11ed-8195-acde48001122,71,,Christian Fuchs,,,CB,Charlotte FC,Major League Soccer,48,66,74,67,72,67,1000
+0c771f82-f730-11ed-8195-acde48001122,68,,Martinez,,,CB,FC Dallas,Major League Soccer,44,36,51,53,68,72,1000
+0c8ef91e-f725-11ed-8195-acde48001122,78,,Daniel Gazdag,,,CAM,Philadelphia,Major League Soccer,83,77,73,79,62,71,1000
+0d3e2682-f72f-11ed-8195-acde48001122,68,,Yuya Kubo,,,CM,FC Cincinnati,Major League Soccer,72,63,67,70,62,68,1000
+0dccf16e-f725-11ed-8195-acde48001122,78,,Moussa Djitte,,,ST,Austin FC,Major League Soccer,88,77,64,81,37,79,1000
+0dd087e0-f728-11ed-8195-acde48001122,74,,Andres Cubas,,,CDM,Whitecaps FC,Major League Soccer,69,54,67,73,73,58,1000
+0e998f22-f72e-11ed-8195-acde48001122,69,,Robin Jansson,,,CB,Orlando City,Major League Soccer,51,28,53,59,71,74,1000
+0ff73dc2-f72b-11ed-8195-acde48001122,71,,Nathan,,,CB,SJ Earthquakes,Major League Soccer,73,44,52,58,69,76,1000
+11261546-f72c-11ed-8195-acde48001122,70,,Mark Delgado,,,CDM,LA Galaxy,Major League Soccer,66,52,63,65,66,71,1000
+11a6f67a-f72c-11ed-8195-acde48001122,70,,Matias Vera,,,CDM,Houston Dynamo,Major League Soccer,67,45,65,63,66,67,1000
+1234ba00-f727-11ed-8195-acde48001122,75,,Gonzalo Higuain,,,ST,Inter Miami CF,Major League Soccer,48,79,71,72,28,64,1000
+127a5bee-f72e-11ed-8195-acde48001122,69,,Bill Tuiloma,,,CB,Portland Timbers,Major League Soccer,60,53,64,59,69,76,1000
+1287850c-f72f-11ed-8195-acde48001122,68,,Darwin Ceren,,,CDM,Houston Dynamo,Major League Soccer,46,57,62,62,63,71,1000
+128f4b38-f721-11ed-8195-acde48001122,85,,Luquinhas,,,LM,Red Bulls,Major League Soccer,91,81,82,87,47,69,1000
+12c29020-f725-11ed-8195-acde48001122,78,,Josef Martinez,,,ST,Atlanta United,Major League Soccer,85,79,60,77,25,66,1000
+1463c6a6-f725-11ed-8195-acde48001122,78,,Luiz Araujo,,,RM,Atlanta United,Major League Soccer,88,69,72,83,39,57,1000
+15e57a1a-f725-11ed-8195-acde48001122,78,,Pozuelo,,,CAM,Inter Miami CF,Major League Soccer,64,73,79,80,53,67,1000
+1681aaca-f72a-11ed-8195-acde48001122,72,,Milos Degenek,,,CB,Columbus Crew,Major League Soccer,76,61,66,60,70,83,1000
+169b099c-f72b-11ed-8195-acde48001122,71,,Nanu,,,RB,FC Dallas,Major League Soccer,86,61,63,70,66,73,1000
+1753868e-f721-11ed-8195-acde48001122,85,,Marcelino Moreno,,,CM,Atlanta United,Major League Soccer,84,82,85,88,72,74,1000
+176bbb70-f724-11ed-8195-acde48001122,79,,Javier Hernandez,,,ST,LA Galaxy,Major League Soccer,72,77,64,76,31,68,1000
+17dc126a-f721-11ed-8195-acde48001122,85,,Noble Okello,,,CDM,Toronto FC,Major League Soccer,83,76,80,84,82,86,1000
+187944c8-f72f-11ed-8195-acde48001122,68,,Justin Meram,,,LM,Real Salt Lake,Major League Soccer,69,66,65,71,58,68,1000
+191acbf8-f726-11ed-8195-acde48001122,76,,Ashley Westwood,,,CDM,Charlotte FC,Major League Soccer,56,63,78,73,72,73,1000
+005849d4-f72f-11ed-8195-acde48001122,68,,Eryk Williamson,,,CDM,Portland Timbers,Major League Soccer,70,57,67,71,63,69,1500
+00adcc26-f723-11ed-8195-acde48001122,81,,Gareth Bale,,,RW,LAFC,Major League Soccer,80,84,81,79,55,69,1500
+0136b046-f727-11ed-8195-acde48001122,75,,Cucho Hernandez,,,ST,Columbus Crew,Major League Soccer,82,75,65,73,42,74,1500
+0169dad6-f72a-11ed-8195-acde48001122,72,,Matt Miazga,,,CB,FC Cincinnati,Major League Soccer,47,26,47,57,73,77,1500
+01bba5c8-f720-11ed-8195-acde48001122,87,,Hany Mukhtar,,,CF,Nashville SC,Major League Soccer,90,84,86,87,55,76,1500
+01dac4da-f72f-11ed-8195-acde48001122,68,,Cesar Araujo,,,CDM,Orlando City,Major League Soccer,62,53,56,63,63,68,1500
+025b1d1a-f720-11ed-8195-acde48001122,87,,Thiago Martins,,,CB,New York City FC,Major League Soccer,84,57,72,77,87,88,1500
+02660c68-f728-11ed-8195-acde48001122,74,,Gastón Gimenez,,,CDM,Chicago Fire FC,Major League Soccer,64,61,71,73,67,83,1500
+02acbec4-f728-11ed-8195-acde48001122,74,,Albert Rusnak,,,CAM,Sounders FC,Major League Soccer,68,74,74,75,56,66,1500
+03a1f130-f72a-11ed-8195-acde48001122,72,,Anton Tinnerholm,,,RB,New York City FC,Major League Soccer,71,52,66,69,68,75,1500
+05e19828-f72b-11ed-8195-acde48001122,71,,Thiago Martins,,,CB,New York City FC,Major League Soccer,76,41,57,58,71,73,1500
+05f91caa-f730-11ed-8195-acde48001122,68,,Chase Gasper,,,LB,LA Galaxy,Major League Soccer,78,34,55,63,65,72,1500
+05ffc8dc-f723-11ed-8195-acde48001122,81,,Carlos Vela,,,RW,LAFC,Major League Soccer,77,79,76,83,30,64,1500
+090621bc-f72c-11ed-8195-acde48001122,70,,Matt Polster,,,CDM,New England,Major League Soccer,48,46,66,64,65,79,1500
+0ad3b5dc-f730-11ed-8195-acde48001122,68,,Xavier Arreaga,,,CB,Sounders FC,Major League Soccer,57,28,49,56,68,73,1500
+0b58879c-f728-11ed-8195-acde48001122,74,,Luquinhas,,,LM,Red Bulls,Major League Soccer,82,67,68,79,35,57,1500
+0c11023a-f724-11ed-8195-acde48001122,79,,Emanuel Reynoso,,,CAM,Minnesota United,Major League Soccer,67,67,78,80,59,67,1500
+0c16002c-f725-11ed-8195-acde48001122,78,,Brenner,,,ST,FC Cincinnati,Major League Soccer,85,78,71,83,39,61,1500
+0c50e24a-f72b-11ed-8195-acde48001122,71,,Christian Fuchs,,,CB,Charlotte FC,Major League Soccer,48,66,74,67,72,67,1500
+0c771f82-f730-11ed-8195-acde48001122,68,,Martinez,,,CB,FC Dallas,Major League Soccer,44,36,51,53,68,72,1500
+0c8ef91e-f725-11ed-8195-acde48001122,78,,Daniel Gazdag,,,CAM,Philadelphia,Major League Soccer,83,77,73,79,62,71,1500
+0d3e2682-f72f-11ed-8195-acde48001122,68,,Yuya Kubo,,,CM,FC Cincinnati,Major League Soccer,72,63,67,70,62,68,1500
+0dccf16e-f725-11ed-8195-acde48001122,78,,Moussa Djitte,,,ST,Austin FC,Major League Soccer,88,77,64,81,37,79,1500
+0dd087e0-f728-11ed-8195-acde48001122,74,,Andres Cubas,,,CDM,Whitecaps FC,Major League Soccer,69,54,67,73,73,58,1500
+0e998f22-f72e-11ed-8195-acde48001122,69,,Robin Jansson,,,CB,Orlando City,Major League Soccer,51,28,53,59,71,74,1500
+0ff73dc2-f72b-11ed-8195-acde48001122,71,,Nathan,,,CB,SJ Earthquakes,Major League Soccer,73,44,52,58,69,76,1500
+11261546-f72c-11ed-8195-acde48001122,70,,Mark Delgado,,,CDM,LA Galaxy,Major League Soccer,66,52,63,65,66,71,1500
+11a6f67a-f72c-11ed-8195-acde48001122,70,,Matias Vera,,,CDM,Houston Dynamo,Major League Soccer,67,45,65,63,66,67,1500
+1234ba00-f727-11ed-8195-acde48001122,75,,Gonzalo Higuain,,,ST,Inter Miami CF,Major League Soccer,48,79,71,72,28,64,1500
+127a5bee-f72e-11ed-8195-acde48001122,69,,Bill Tuiloma,,,CB,Portland Timbers,Major League Soccer,60,53,64,59,69,76,1500
+1287850c-f72f-11ed-8195-acde48001122,68,,Darwin Ceren,,,CDM,Houston Dynamo,Major League Soccer,46,57,62,62,63,71,1500
+128f4b38-f721-11ed-8195-acde48001122,85,,Luquinhas,,,LM,Red Bulls,Major League Soccer,91,81,82,87,47,69,1500
+12c29020-f725-11ed-8195-acde48001122,78,,Josef Martinez,,,ST,Atlanta United,Major League Soccer,85,79,60,77,25,66,1500
+1463c6a6-f725-11ed-8195-acde48001122,78,,Luiz Araujo,,,RM,Atlanta United,Major League Soccer,88,69,72,83,39,57,1500
+15e57a1a-f725-11ed-8195-acde48001122,78,,Pozuelo,,,CAM,Inter Miami CF,Major League Soccer,64,73,79,80,53,67,1500
+1681aaca-f72a-11ed-8195-acde48001122,72,,Milos Degenek,,,CB,Columbus Crew,Major League Soccer,76,61,66,60,70,83,1500
+169b099c-f72b-11ed-8195-acde48001122,71,,Nanu,,,RB,FC Dallas,Major League Soccer,86,61,63,70,66,73,1500
+1753868e-f721-11ed-8195-acde48001122,85,,Marcelino Moreno,,,CM,Atlanta United,Major League Soccer,84,82,85,88,72,74,1500
+176bbb70-f724-11ed-8195-acde48001122,79,,Javier Hernandez,,,ST,LA Galaxy,Major League Soccer,72,77,64,76,31,68,1500
+17dc126a-f721-11ed-8195-acde48001122,85,,Noble Okello,,,CDM,Toronto FC,Major League Soccer,83,76,80,84,82,86,1500
+187944c8-f72f-11ed-8195-acde48001122,68,,Justin Meram,,,LM,Real Salt Lake,Major League Soccer,69,66,65,71,58,68,1500
+191acbf8-f726-11ed-8195-acde48001122,76,,Ashley Westwood,,,CDM,Charlotte FC,Major League Soccer,56,63,78,73,72,73,1500
+1a0b4ddc-f72e-11ed-8195-acde48001122,69,,Romain Metanire,,,RB,Minnesota United,Major League Soccer,74,35,64,66,65,75,1500
+1b6e22fc-f72f-11ed-8195-acde48001122,68,,Yaw Yeboah,,,RM,Columbus Crew,Major League Soccer,90,64,58,73,25,53,1500
+1be0de2c-f726-11ed-8195-acde48001122,76,,Martin Ojeda,,,RM,Orlando City,Major League Soccer,83,76,73,76,34,61,1500
+1bf945b0-f727-11ed-8195-acde48001122,75,,Alan Velasco,,,LM,FC Dallas,Major League Soccer,83,68,70,81,53,61,1500
+1c68bf4a-f726-11ed-8195-acde48001122,76,,Evander,,,CM,Portland Timbers,Major League Soccer,73,71,76,80,67,69,1500
+1cf8bd60-f727-11ed-8195-acde48001122,75,,Ryan Gauld,,,CAM,Whitecaps FC,Major League Soccer,80,65,75,81,52,51,1500
+1dbf535a-f72f-11ed-8195-acde48001122,68,,Kevin Molino,,,CAM,Columbus Crew,Major League Soccer,70,68,65,70,49,65,1500
+1de85512-f72e-11ed-8195-acde48001122,69,,Steve Birnbaum,,,CB,D.C. United,Major League Soccer,34,31,45,51,68,85,1500
+20c7e6d4-f725-11ed-8195-acde48001122,78,,Sebastian Driussi,,,CAM,Austin FC,Major League Soccer,81,78,73,76,26,69,1500
+20de3aca-f72e-11ed-8195-acde48001122,69,,Keegan Rosenberry,,,CB,Colorado Rapids,Major League Soccer,68,51,62,66,68,74,1500
+21ebcd4a-f721-11ed-8195-acde48001122,85,,Walker Zimmerman,,,CB,Nashville SC,Major League Soccer,79,60,65,68,84,88,1500
+233b2ffa-f72c-11ed-8195-acde48001122,70,,Ismael Tajouri-Shradi,,,RM,New England,Major League Soccer,82,70,63,74,33,56,1500
+233e6870-f725-11ed-8195-acde48001122,78,,Emiliano Rigoni,,,RM,Austin FC,Major League Soccer,83,73,74,78,46,60,1500
+23f8a83a-f72e-11ed-8195-acde48001122,69,,Andrew Farrell,,,CB,New England,Major League Soccer,75,48,64,66,68,78,1500
+25290442-f720-11ed-8195-acde48001122,87,,Giorgio Chiellini,,,CAM,LAFC,Major League Soccer,88,87,85,86,70,84,1500
+005849d4-f72f-11ed-8195-acde48001122,68,,Eryk Williamson,,,CDM,Portland Timbers,Major League Soccer,70,57,67,71,63,69,2000
+00adcc26-f723-11ed-8195-acde48001122,81,,Gareth Bale,,,RW,LAFC,Major League Soccer,80,84,81,79,55,69,2000
+0136b046-f727-11ed-8195-acde48001122,75,,Cucho Hernandez,,,ST,Columbus Crew,Major League Soccer,82,75,65,73,42,74,2000
+0169dad6-f72a-11ed-8195-acde48001122,72,,Matt Miazga,,,CB,FC Cincinnati,Major League Soccer,47,26,47,57,73,77,2000
+01bba5c8-f720-11ed-8195-acde48001122,87,,Hany Mukhtar,,,CF,Nashville SC,Major League Soccer,90,84,86,87,55,76,2000
+01dac4da-f72f-11ed-8195-acde48001122,68,,Cesar Araujo,,,CDM,Orlando City,Major League Soccer,62,53,56,63,63,68,2000
+025b1d1a-f720-11ed-8195-acde48001122,87,,Thiago Martins,,,CB,New York City FC,Major League Soccer,84,57,72,77,87,88,2000
+02660c68-f728-11ed-8195-acde48001122,74,,Gastón Gimenez,,,CDM,Chicago Fire FC,Major League Soccer,64,61,71,73,67,83,2000
+02acbec4-f728-11ed-8195-acde48001122,74,,Albert Rusnak,,,CAM,Sounders FC,Major League Soccer,68,74,74,75,56,66,2000
+03a1f130-f72a-11ed-8195-acde48001122,72,,Anton Tinnerholm,,,RB,New York City FC,Major League Soccer,71,52,66,69,68,75,2000
+05e19828-f72b-11ed-8195-acde48001122,71,,Thiago Martins,,,CB,New York City FC,Major League Soccer,76,41,57,58,71,73,2000
+05f91caa-f730-11ed-8195-acde48001122,68,,Chase Gasper,,,LB,LA Galaxy,Major League Soccer,78,34,55,63,65,72,2000
+05ffc8dc-f723-11ed-8195-acde48001122,81,,Carlos Vela,,,RW,LAFC,Major League Soccer,77,79,76,83,30,64,2000
+090621bc-f72c-11ed-8195-acde48001122,70,,Matt Polster,,,CDM,New England,Major League Soccer,48,46,66,64,65,79,2000
+0ad3b5dc-f730-11ed-8195-acde48001122,68,,Xavier Arreaga,,,CB,Sounders FC,Major League Soccer,57,28,49,56,68,73,2000
+0b58879c-f728-11ed-8195-acde48001122,74,,Luquinhas,,,LM,Red Bulls,Major League Soccer,82,67,68,79,35,57,2000
+0c11023a-f724-11ed-8195-acde48001122,79,,Emanuel Reynoso,,,CAM,Minnesota United,Major League Soccer,67,67,78,80,59,67,2000
+0c16002c-f725-11ed-8195-acde48001122,78,,Brenner,,,ST,FC Cincinnati,Major League Soccer,85,78,71,83,39,61,2000
+0c50e24a-f72b-11ed-8195-acde48001122,71,,Christian Fuchs,,,CB,Charlotte FC,Major League Soccer,48,66,74,67,72,67,2000
+0c771f82-f730-11ed-8195-acde48001122,68,,Martinez,,,CB,FC Dallas,Major League Soccer,44,36,51,53,68,72,2000
+0c8ef91e-f725-11ed-8195-acde48001122,78,,Daniel Gazdag,,,CAM,Philadelphia,Major League Soccer,83,77,73,79,62,71,2000
+0d3e2682-f72f-11ed-8195-acde48001122,68,,Yuya Kubo,,,CM,FC Cincinnati,Major League Soccer,72,63,67,70,62,68,2000
+0dccf16e-f725-11ed-8195-acde48001122,78,,Moussa Djitte,,,ST,Austin FC,Major League Soccer,88,77,64,81,37,79,2000
+0dd087e0-f728-11ed-8195-acde48001122,74,,Andres Cubas,,,CDM,Whitecaps FC,Major League Soccer,69,54,67,73,73,58,2000
+0e998f22-f72e-11ed-8195-acde48001122,69,,Robin Jansson,,,CB,Orlando City,Major League Soccer,51,28,53,59,71,74,2000
+0ff73dc2-f72b-11ed-8195-acde48001122,71,,Nathan,,,CB,SJ Earthquakes,Major League Soccer,73,44,52,58,69,76,2000
+11261546-f72c-11ed-8195-acde48001122,70,,Mark Delgado,,,CDM,LA Galaxy,Major League Soccer,66,52,63,65,66,71,2000
+11a6f67a-f72c-11ed-8195-acde48001122,70,,Matias Vera,,,CDM,Houston Dynamo,Major League Soccer,67,45,65,63,66,67,2000
+1234ba00-f727-11ed-8195-acde48001122,75,,Gonzalo Higuain,,,ST,Inter Miami CF,Major League Soccer,48,79,71,72,28,64,2000
+127a5bee-f72e-11ed-8195-acde48001122,69,,Bill Tuiloma,,,CB,Portland Timbers,Major League Soccer,60,53,64,59,69,76,2000
+1287850c-f72f-11ed-8195-acde48001122,68,,Darwin Ceren,,,CDM,Houston Dynamo,Major League Soccer,46,57,62,62,63,71,2000
+128f4b38-f721-11ed-8195-acde48001122,85,,Luquinhas,,,LM,Red Bulls,Major League Soccer,91,81,82,87,47,69,2000
+12c29020-f725-11ed-8195-acde48001122,78,,Josef Martinez,,,ST,Atlanta United,Major League Soccer,85,79,60,77,25,66,2000
+1463c6a6-f725-11ed-8195-acde48001122,78,,Luiz Araujo,,,RM,Atlanta United,Major League Soccer,88,69,72,83,39,57,2000
+15e57a1a-f725-11ed-8195-acde48001122,78,,Pozuelo,,,CAM,Inter Miami CF,Major League Soccer,64,73,79,80,53,67,2000
+1681aaca-f72a-11ed-8195-acde48001122,72,,Milos Degenek,,,CB,Columbus Crew,Major League Soccer,76,61,66,60,70,83,2000
+169b099c-f72b-11ed-8195-acde48001122,71,,Nanu,,,RB,FC Dallas,Major League Soccer,86,61,63,70,66,73,2000
+1753868e-f721-11ed-8195-acde48001122,85,,Marcelino Moreno,,,CM,Atlanta United,Major League Soccer,84,82,85,88,72,74,2000
+176bbb70-f724-11ed-8195-acde48001122,79,,Javier Hernandez,,,ST,LA Galaxy,Major League Soccer,72,77,64,76,31,68,2000
+17dc126a-f721-11ed-8195-acde48001122,85,,Noble Okello,,,CDM,Toronto FC,Major League Soccer,83,76,80,84,82,86,2000
+187944c8-f72f-11ed-8195-acde48001122,68,,Justin Meram,,,LM,Real Salt Lake,Major League Soccer,69,66,65,71,58,68,2000
+191acbf8-f726-11ed-8195-acde48001122,76,,Ashley Westwood,,,CDM,Charlotte FC,Major League Soccer,56,63,78,73,72,73,2000
+1a0b4ddc-f72e-11ed-8195-acde48001122,69,,Romain Metanire,,,RB,Minnesota United,Major League Soccer,74,35,64,66,65,75,2000
+1b6e22fc-f72f-11ed-8195-acde48001122,68,,Yaw Yeboah,,,RM,Columbus Crew,Major League Soccer,90,64,58,73,25,53,2000
+1be0de2c-f726-11ed-8195-acde48001122,76,,Martin Ojeda,,,RM,Orlando City,Major League Soccer,83,76,73,76,34,61,2000
+1bf945b0-f727-11ed-8195-acde48001122,75,,Alan Velasco,,,LM,FC Dallas,Major League Soccer,83,68,70,81,53,61,2000
+1c68bf4a-f726-11ed-8195-acde48001122,76,,Evander,,,CM,Portland Timbers,Major League Soccer,73,71,76,80,67,69,2000
+1cf8bd60-f727-11ed-8195-acde48001122,75,,Ryan Gauld,,,CAM,Whitecaps FC,Major League Soccer,80,65,75,81,52,51,2000
+1dbf535a-f72f-11ed-8195-acde48001122,68,,Kevin Molino,,,CAM,Columbus Crew,Major League Soccer,70,68,65,70,49,65,2000
+1de85512-f72e-11ed-8195-acde48001122,69,,Steve Birnbaum,,,CB,D.C. United,Major League Soccer,34,31,45,51,68,85,2000
+20c7e6d4-f725-11ed-8195-acde48001122,78,,Sebastian Driussi,,,CAM,Austin FC,Major League Soccer,81,78,73,76,26,69,2000
+20de3aca-f72e-11ed-8195-acde48001122,69,,Keegan Rosenberry,,,CB,Colorado Rapids,Major League Soccer,68,51,62,66,68,74,2000
+21ebcd4a-f721-11ed-8195-acde48001122,85,,Walker Zimmerman,,,CB,Nashville SC,Major League Soccer,79,60,65,68,84,88,2000
+233b2ffa-f72c-11ed-8195-acde48001122,70,,Ismael Tajouri-Shradi,,,RM,New England,Major League Soccer,82,70,63,74,33,56,2000
+233e6870-f725-11ed-8195-acde48001122,78,,Emiliano Rigoni,,,RM,Austin FC,Major League Soccer,83,73,74,78,46,60,2000
+23f8a83a-f72e-11ed-8195-acde48001122,69,,Andrew Farrell,,,CB,New England,Major League Soccer,75,48,64,66,68,78,2000
+25290442-f720-11ed-8195-acde48001122,87,,Giorgio Chiellini,,,CAM,LAFC,Major League Soccer,88,87,85,86,70,84,2000
+25a08a02-f730-11ed-8195-acde48001122,67,,Patryk Klimala,,,ST,Red Bulls,Major League Soccer,82,63,48,64,31,72,2000
+26650382-f72b-11ed-8195-acde48001122,71,,Brandon Bye,,,RB,New England,Major League Soccer,77,58,61,65,68,73,2000
+26c4f626-f72f-11ed-8195-acde48001122,68,,Jader Obrian,,,RM,FC Dallas,Major League Soccer,90,64,59,69,36,60,2000
+27a62644-f727-11ed-8195-acde48001122,75,,Darlington Nagbe,,,CM,Columbus Crew,Major League Soccer,78,65,72,79,64,72,2000
+289f32fc-f72c-11ed-8195-acde48001122,70,,Sebastian Lletget,,,CM,FC Dallas,Major League Soccer,71,64,71,72,60,72,2000
+295c0afc-f728-11ed-8195-acde48001122,74,,Rafael Czichos,,,CB,Chicago Fire FC,Major League Soccer,59,47,59,61,75,77,2000
+2bb9c0c6-f72f-11ed-8195-acde48001122,68,,Ravel Morrison,,,CAM,D.C. United,Major League Soccer,67,63,68,71,47,52,2000
+2c592a2e-f727-11ed-8195-acde48001122,75,,João Paulo,,,CM,Sounders FC,Major League Soccer,72,69,77,75,69,70,2000
+2c70ae68-f72e-11ed-8195-acde48001122,69,,DeAndre Yedlin,,,RB,Inter Miami CF,Major League Soccer,90,51,56,65,64,70,2000
+2d70269a-f729-11ed-8195-acde48001122,73,,Jose Cifuentes,,,CDM,LAFC,Major League Soccer,71,61,67,73,71,77,2000
+2e25e70a-f729-11ed-8195-acde48001122,73,,Artur,,,CDM,Columbus Crew,Major League Soccer,62,51,64,70,69,79,2000
+2f7806d6-f721-11ed-8195-acde48001122,85,,Jonathan Osorio,,,CM,Toronto FC,Major League Soccer,80,76,81,85,75,81,2000
+005849d4-f72f-11ed-8195-acde48001122,68,,Eryk Williamson,,,CDM,Portland Timbers,Major League Soccer,70,57,67,71,63,69,2500
+00adcc26-f723-11ed-8195-acde48001122,81,,Gareth Bale,,,RW,LAFC,Major League Soccer,80,84,81,79,55,69,2500
+0136b046-f727-11ed-8195-acde48001122,75,,Cucho Hernandez,,,ST,Columbus Crew,Major League Soccer,82,75,65,73,42,74,2500
+0169dad6-f72a-11ed-8195-acde48001122,72,,Matt Miazga,,,CB,FC Cincinnati,Major League Soccer,47,26,47,57,73,77,2500
+01bba5c8-f720-11ed-8195-acde48001122,87,,Hany Mukhtar,,,CF,Nashville SC,Major League Soccer,90,84,86,87,55,76,2500
+01dac4da-f72f-11ed-8195-acde48001122,68,,Cesar Araujo,,,CDM,Orlando City,Major League Soccer,62,53,56,63,63,68,2500
+025b1d1a-f720-11ed-8195-acde48001122,87,,Thiago Martins,,,CB,New York City FC,Major League Soccer,84,57,72,77,87,88,2500
+02660c68-f728-11ed-8195-acde48001122,74,,Gastón Gimenez,,,CDM,Chicago Fire FC,Major League Soccer,64,61,71,73,67,83,2500
+02acbec4-f728-11ed-8195-acde48001122,74,,Albert Rusnak,,,CAM,Sounders FC,Major League Soccer,68,74,74,75,56,66,2500
+03a1f130-f72a-11ed-8195-acde48001122,72,,Anton Tinnerholm,,,RB,New York City FC,Major League Soccer,71,52,66,69,68,75,2500
+05e19828-f72b-11ed-8195-acde48001122,71,,Thiago Martins,,,CB,New York City FC,Major League Soccer,76,41,57,58,71,73,2500
+05f91caa-f730-11ed-8195-acde48001122,68,,Chase Gasper,,,LB,LA Galaxy,Major League Soccer,78,34,55,63,65,72,2500
+05ffc8dc-f723-11ed-8195-acde48001122,81,,Carlos Vela,,,RW,LAFC,Major League Soccer,77,79,76,83,30,64,2500
+090621bc-f72c-11ed-8195-acde48001122,70,,Matt Polster,,,CDM,New England,Major League Soccer,48,46,66,64,65,79,2500
+0ad3b5dc-f730-11ed-8195-acde48001122,68,,Xavier Arreaga,,,CB,Sounders FC,Major League Soccer,57,28,49,56,68,73,2500
+0b58879c-f728-11ed-8195-acde48001122,74,,Luquinhas,,,LM,Red Bulls,Major League Soccer,82,67,68,79,35,57,2500
+0c11023a-f724-11ed-8195-acde48001122,79,,Emanuel Reynoso,,,CAM,Minnesota United,Major League Soccer,67,67,78,80,59,67,2500
+0c16002c-f725-11ed-8195-acde48001122,78,,Brenner,,,ST,FC Cincinnati,Major League Soccer,85,78,71,83,39,61,2500
+0c50e24a-f72b-11ed-8195-acde48001122,71,,Christian Fuchs,,,CB,Charlotte FC,Major League Soccer,48,66,74,67,72,67,2500
+0c771f82-f730-11ed-8195-acde48001122,68,,Martinez,,,CB,FC Dallas,Major League Soccer,44,36,51,53,68,72,2500
+0c8ef91e-f725-11ed-8195-acde48001122,78,,Daniel Gazdag,,,CAM,Philadelphia,Major League Soccer,83,77,73,79,62,71,2500
+0d3e2682-f72f-11ed-8195-acde48001122,68,,Yuya Kubo,,,CM,FC Cincinnati,Major League Soccer,72,63,67,70,62,68,2500
+0dccf16e-f725-11ed-8195-acde48001122,78,,Moussa Djitte,,,ST,Austin FC,Major League Soccer,88,77,64,81,37,79,2500
+0dd087e0-f728-11ed-8195-acde48001122,74,,Andres Cubas,,,CDM,Whitecaps FC,Major League Soccer,69,54,67,73,73,58,2500
+0e998f22-f72e-11ed-8195-acde48001122,69,,Robin Jansson,,,CB,Orlando City,Major League Soccer,51,28,53,59,71,74,2500
+0ff73dc2-f72b-11ed-8195-acde48001122,71,,Nathan,,,CB,SJ Earthquakes,Major League Soccer,73,44,52,58,69,76,2500
+11261546-f72c-11ed-8195-acde48001122,70,,Mark Delgado,,,CDM,LA Galaxy,Major League Soccer,66,52,63,65,66,71,2500
+11a6f67a-f72c-11ed-8195-acde48001122,70,,Matias Vera,,,CDM,Houston Dynamo,Major League Soccer,67,45,65,63,66,67,2500
+1234ba00-f727-11ed-8195-acde48001122,75,,Gonzalo Higuain,,,ST,Inter Miami CF,Major League Soccer,48,79,71,72,28,64,2500
+127a5bee-f72e-11ed-8195-acde48001122,69,,Bill Tuiloma,,,CB,Portland Timbers,Major League Soccer,60,53,64,59,69,76,2500
+1287850c-f72f-11ed-8195-acde48001122,68,,Darwin Ceren,,,CDM,Houston Dynamo,Major League Soccer,46,57,62,62,63,71,2500
+128f4b38-f721-11ed-8195-acde48001122,85,,Luquinhas,,,LM,Red Bulls,Major League Soccer,91,81,82,87,47,69,2500
+12c29020-f725-11ed-8195-acde48001122,78,,Josef Martinez,,,ST,Atlanta United,Major League Soccer,85,79,60,77,25,66,2500
+1463c6a6-f725-11ed-8195-acde48001122,78,,Luiz Araujo,,,RM,Atlanta United,Major League Soccer,88,69,72,83,39,57,2500
+15e57a1a-f725-11ed-8195-acde48001122,78,,Pozuelo,,,CAM,Inter Miami CF,Major League Soccer,64,73,79,80,53,67,2500
+1681aaca-f72a-11ed-8195-acde48001122,72,,Milos Degenek,,,CB,Columbus Crew,Major League Soccer,76,61,66,60,70,83,2500
+169b099c-f72b-11ed-8195-acde48001122,71,,Nanu,,,RB,FC Dallas,Major League Soccer,86,61,63,70,66,73,2500
+1753868e-f721-11ed-8195-acde48001122,85,,Marcelino Moreno,,,CM,Atlanta United,Major League Soccer,84,82,85,88,72,74,2500
+176bbb70-f724-11ed-8195-acde48001122,79,,Javier Hernandez,,,ST,LA Galaxy,Major League Soccer,72,77,64,76,31,68,2500
+17dc126a-f721-11ed-8195-acde48001122,85,,Noble Okello,,,CDM,Toronto FC,Major League Soccer,83,76,80,84,82,86,2500
+187944c8-f72f-11ed-8195-acde48001122,68,,Justin Meram,,,LM,Real Salt Lake,Major League Soccer,69,66,65,71,58,68,2500
+191acbf8-f726-11ed-8195-acde48001122,76,,Ashley Westwood,,,CDM,Charlotte FC,Major League Soccer,56,63,78,73,72,73,2500
+1a0b4ddc-f72e-11ed-8195-acde48001122,69,,Romain Metanire,,,RB,Minnesota United,Major League Soccer,74,35,64,66,65,75,2500
+1b6e22fc-f72f-11ed-8195-acde48001122,68,,Yaw Yeboah,,,RM,Columbus Crew,Major League Soccer,90,64,58,73,25,53,2500
+1be0de2c-f726-11ed-8195-acde48001122,76,,Martin Ojeda,,,RM,Orlando City,Major League Soccer,83,76,73,76,34,61,2500
+1bf945b0-f727-11ed-8195-acde48001122,75,,Alan Velasco,,,LM,FC Dallas,Major League Soccer,83,68,70,81,53,61,2500
+1c68bf4a-f726-11ed-8195-acde48001122,76,,Evander,,,CM,Portland Timbers,Major League Soccer,73,71,76,80,67,69,2500
+1cf8bd60-f727-11ed-8195-acde48001122,75,,Ryan Gauld,,,CAM,Whitecaps FC,Major League Soccer,80,65,75,81,52,51,2500
+1dbf535a-f72f-11ed-8195-acde48001122,68,,Kevin Molino,,,CAM,Columbus Crew,Major League Soccer,70,68,65,70,49,65,2500
+1de85512-f72e-11ed-8195-acde48001122,69,,Steve Birnbaum,,,CB,D.C. United,Major League Soccer,34,31,45,51,68,85,2500
+20c7e6d4-f725-11ed-8195-acde48001122,78,,Sebastian Driussi,,,CAM,Austin FC,Major League Soccer,81,78,73,76,26,69,2500
+20de3aca-f72e-11ed-8195-acde48001122,69,,Keegan Rosenberry,,,CB,Colorado Rapids,Major League Soccer,68,51,62,66,68,74,2500
+21ebcd4a-f721-11ed-8195-acde48001122,85,,Walker Zimmerman,,,CB,Nashville SC,Major League Soccer,79,60,65,68,84,88,2500
+233b2ffa-f72c-11ed-8195-acde48001122,70,,Ismael Tajouri-Shradi,,,RM,New England,Major League Soccer,82,70,63,74,33,56,2500
+233e6870-f725-11ed-8195-acde48001122,78,,Emiliano Rigoni,,,RM,Austin FC,Major League Soccer,83,73,74,78,46,60,2500
+23f8a83a-f72e-11ed-8195-acde48001122,69,,Andrew Farrell,,,CB,New England,Major League Soccer,75,48,64,66,68,78,2500
+25290442-f720-11ed-8195-acde48001122,87,,Giorgio Chiellini,,,CAM,LAFC,Major League Soccer,88,87,85,86,70,84,2500
+25a08a02-f730-11ed-8195-acde48001122,67,,Patryk Klimala,,,ST,Red Bulls,Major League Soccer,82,63,48,64,31,72,2500
+26650382-f72b-11ed-8195-acde48001122,71,,Brandon Bye,,,RB,New England,Major League Soccer,77,58,61,65,68,73,2500
+26c4f626-f72f-11ed-8195-acde48001122,68,,Jader Obrian,,,RM,FC Dallas,Major League Soccer,90,64,59,69,36,60,2500
+27a62644-f727-11ed-8195-acde48001122,75,,Darlington Nagbe,,,CM,Columbus Crew,Major League Soccer,78,65,72,79,64,72,2500
+289f32fc-f72c-11ed-8195-acde48001122,70,,Sebastian Lletget,,,CM,FC Dallas,Major League Soccer,71,64,71,72,60,72,2500
+295c0afc-f728-11ed-8195-acde48001122,74,,Rafael Czichos,,,CB,Chicago Fire FC,Major League Soccer,59,47,59,61,75,77,2500
+2bb9c0c6-f72f-11ed-8195-acde48001122,68,,Ravel Morrison,,,CAM,D.C. United,Major League Soccer,67,63,68,71,47,52,2500
+2c592a2e-f727-11ed-8195-acde48001122,75,,João Paulo,,,CM,Sounders FC,Major League Soccer,72,69,77,75,69,70,2500
+2c70ae68-f72e-11ed-8195-acde48001122,69,,DeAndre Yedlin,,,RB,Inter Miami CF,Major League Soccer,90,51,56,65,64,70,2500
+2d70269a-f729-11ed-8195-acde48001122,73,,Jose Cifuentes,,,CDM,LAFC,Major League Soccer,71,61,67,73,71,77,2500
+2e25e70a-f729-11ed-8195-acde48001122,73,,Artur,,,CDM,Columbus Crew,Major League Soccer,62,51,64,70,69,79,2500
+2f7806d6-f721-11ed-8195-acde48001122,85,,Jonathan Osorio,,,CM,Toronto FC,Major League Soccer,80,76,81,85,75,81,2500
+32ab4ed2-f71f-11ed-8195-acde48001122,88,,Carlos Vela,,,RW,LAFC,Major League Soccer,86,88,85,90,37,73,2500
+32ccf84c-f72a-11ed-8195-acde48001122,72,,Matt Hedges,,,CB,FC Dallas,Major League Soccer,41,28,51,53,71,84,2500
+32e6f2b2-f71e-11ed-8195-acde48001122,91,,Rafael Marquez,,,CB,HERO,Major League Soccer,81,69,78,77,93,91,2500
+33670846-f730-11ed-8195-acde48001122,67,,Maximiliano Urruti,,,ST,Austin FC,Major League Soccer,72,66,62,71,54,69,2500
+33a1d290-f72c-11ed-8195-acde48001122,70,,Russell Canouse,,,CDM,D.C. United,Major League Soccer,65,53,57,65,68,81,2500
+343e437a-f72a-11ed-8195-acde48001122,72,,Guzman Corujo,,,CB,Charlotte FC,Major League Soccer,70,35,46,47,74,74,2500
+348b237a-f72a-11ed-8195-acde48001122,72,,Jonathan Mensah,,,CB,Columbus Crew,Major League Soccer,61,46,56,54,71,80,2500
+3513b8d4-f72a-11ed-8195-acde48001122,72,,Shaquell Moore,,,RB,Nashville SC,Major League Soccer,90,59,62,70,62,76,2500
+35437456-f721-11ed-8195-acde48001122,85,,Bryan Oviedo,,,LB,Real Salt Lake,Major League Soccer,86,72,80,83,80,83,2500
+361bb84a-f729-11ed-8195-acde48001122,73,,Aaron Long,,,CB,Red Bulls,Major League Soccer,78,39,54,62,70,82,2500
+3634e494-f72b-11ed-8195-acde48001122,71,,Bakaye Dibassy,,,CB,Minnesota United,Major League Soccer,71,54,61,65,71,78,2500
+374441ce-f729-11ed-8195-acde48001122,73,,Miles Robinson,,,CB,Atlanta United,Major League Soccer,83,35,54,67,72,78,2500
+37e9168a-f725-11ed-8195-acde48001122,78,,Raul Ruidiaz,,,ST,Sounders FC,Major League Soccer,83,79,66,79,33,69,2500
+382b7316-f72c-11ed-8195-acde48001122,70,,Junior Urso,,,CDM,Orlando City,Major League Soccer,64,64,65,70,66,75,2500
+388b0dec-f72e-11ed-8195-acde48001122,69,,Kemar Lawrence,,,LB,Minnesota United,Major League Soccer,84,47,62,65,63,75,2500
+398ce8fc-f72c-11ed-8195-acde48001122,70,,Alistair Johnston,,,RM,CF Montreal,Major League Soccer,79,51,65,68,68,74,2500
+3bfe9128-f72a-11ed-8195-acde48001122,72,,Jack Elliott,,,CB,Philadelphia,Major League Soccer,52,24,48,50,73,79,2500
+3c813400-f727-11ed-8195-acde48001122,75,,Yimmi Chara,,,CAM,Portland Timbers,Major League Soccer,91,69,67,78,52,71,2500
+3d80c758-f72c-11ed-8195-acde48001122,70,,Deiber Caicedo,,,LM,Whitecaps FC,Major League Soccer,83,63,61,77,35,55,2500
+3dd60bf8-f72e-11ed-8195-acde48001122,69,,Ruben Gabrielsen,,,CB,Austin FC,Major League Soccer,68,48,46,52,68,84,2500
+3eaa2212-f72e-11ed-8195-acde48001122,69,,Lalas Abubakar,,,CB,Colorado Rapids,Major League Soccer,56,32,50,50,66,79,2500
+005849d4-f72f-11ed-8195-acde48001122,68,,Eryk Williamson,,,CDM,Portland Timbers,Major League Soccer,70,57,67,71,63,69,3000
+00adcc26-f723-11ed-8195-acde48001122,81,,Gareth Bale,,,RW,LAFC,Major League Soccer,80,84,81,79,55,69,3000
+0136b046-f727-11ed-8195-acde48001122,75,,Cucho Hernandez,,,ST,Columbus Crew,Major League Soccer,82,75,65,73,42,74,3000
+0169dad6-f72a-11ed-8195-acde48001122,72,,Matt Miazga,,,CB,FC Cincinnati,Major League Soccer,47,26,47,57,73,77,3000
+01bba5c8-f720-11ed-8195-acde48001122,87,,Hany Mukhtar,,,CF,Nashville SC,Major League Soccer,90,84,86,87,55,76,3000
+01dac4da-f72f-11ed-8195-acde48001122,68,,Cesar Araujo,,,CDM,Orlando City,Major League Soccer,62,53,56,63,63,68,3000
+025b1d1a-f720-11ed-8195-acde48001122,87,,Thiago Martins,,,CB,New York City FC,Major League Soccer,84,57,72,77,87,88,3000
+02660c68-f728-11ed-8195-acde48001122,74,,Gastón Gimenez,,,CDM,Chicago Fire FC,Major League Soccer,64,61,71,73,67,83,3000
+02acbec4-f728-11ed-8195-acde48001122,74,,Albert Rusnak,,,CAM,Sounders FC,Major League Soccer,68,74,74,75,56,66,3000
+03a1f130-f72a-11ed-8195-acde48001122,72,,Anton Tinnerholm,,,RB,New York City FC,Major League Soccer,71,52,66,69,68,75,3000
+05e19828-f72b-11ed-8195-acde48001122,71,,Thiago Martins,,,CB,New York City FC,Major League Soccer,76,41,57,58,71,73,3000
+05f91caa-f730-11ed-8195-acde48001122,68,,Chase Gasper,,,LB,LA Galaxy,Major League Soccer,78,34,55,63,65,72,3000
+05ffc8dc-f723-11ed-8195-acde48001122,81,,Carlos Vela,,,RW,LAFC,Major League Soccer,77,79,76,83,30,64,3000
+090621bc-f72c-11ed-8195-acde48001122,70,,Matt Polster,,,CDM,New England,Major League Soccer,48,46,66,64,65,79,3000
+0ad3b5dc-f730-11ed-8195-acde48001122,68,,Xavier Arreaga,,,CB,Sounders FC,Major League Soccer,57,28,49,56,68,73,3000
+0b58879c-f728-11ed-8195-acde48001122,74,,Luquinhas,,,LM,Red Bulls,Major League Soccer,82,67,68,79,35,57,3000
+0c11023a-f724-11ed-8195-acde48001122,79,,Emanuel Reynoso,,,CAM,Minnesota United,Major League Soccer,67,67,78,80,59,67,3000
+0c16002c-f725-11ed-8195-acde48001122,78,,Brenner,,,ST,FC Cincinnati,Major League Soccer,85,78,71,83,39,61,3000
+0c50e24a-f72b-11ed-8195-acde48001122,71,,Christian Fuchs,,,CB,Charlotte FC,Major League Soccer,48,66,74,67,72,67,3000
+0c771f82-f730-11ed-8195-acde48001122,68,,Martinez,,,CB,FC Dallas,Major League Soccer,44,36,51,53,68,72,3000
+0c8ef91e-f725-11ed-8195-acde48001122,78,,Daniel Gazdag,,,CAM,Philadelphia,Major League Soccer,83,77,73,79,62,71,3000
+0d3e2682-f72f-11ed-8195-acde48001122,68,,Yuya Kubo,,,CM,FC Cincinnati,Major League Soccer,72,63,67,70,62,68,3000
+0dccf16e-f725-11ed-8195-acde48001122,78,,Moussa Djitte,,,ST,Austin FC,Major League Soccer,88,77,64,81,37,79,3000
+0dd087e0-f728-11ed-8195-acde48001122,74,,Andres Cubas,,,CDM,Whitecaps FC,Major League Soccer,69,54,67,73,73,58,3000
+0e998f22-f72e-11ed-8195-acde48001122,69,,Robin Jansson,,,CB,Orlando City,Major League Soccer,51,28,53,59,71,74,3000
+0ff73dc2-f72b-11ed-8195-acde48001122,71,,Nathan,,,CB,SJ Earthquakes,Major League Soccer,73,44,52,58,69,76,3000
+11261546-f72c-11ed-8195-acde48001122,70,,Mark Delgado,,,CDM,LA Galaxy,Major League Soccer,66,52,63,65,66,71,3000
+11a6f67a-f72c-11ed-8195-acde48001122,70,,Matias Vera,,,CDM,Houston Dynamo,Major League Soccer,67,45,65,63,66,67,3000
+1234ba00-f727-11ed-8195-acde48001122,75,,Gonzalo Higuain,,,ST,Inter Miami CF,Major League Soccer,48,79,71,72,28,64,3000
+127a5bee-f72e-11ed-8195-acde48001122,69,,Bill Tuiloma,,,CB,Portland Timbers,Major League Soccer,60,53,64,59,69,76,3000
+1287850c-f72f-11ed-8195-acde48001122,68,,Darwin Ceren,,,CDM,Houston Dynamo,Major League Soccer,46,57,62,62,63,71,3000
+128f4b38-f721-11ed-8195-acde48001122,85,,Luquinhas,,,LM,Red Bulls,Major League Soccer,91,81,82,87,47,69,3000
+12c29020-f725-11ed-8195-acde48001122,78,,Josef Martinez,,,ST,Atlanta United,Major League Soccer,85,79,60,77,25,66,3000
+1463c6a6-f725-11ed-8195-acde48001122,78,,Luiz Araujo,,,RM,Atlanta United,Major League Soccer,88,69,72,83,39,57,3000
+15e57a1a-f725-11ed-8195-acde48001122,78,,Pozuelo,,,CAM,Inter Miami CF,Major League Soccer,64,73,79,80,53,67,3000
+1681aaca-f72a-11ed-8195-acde48001122,72,,Milos Degenek,,,CB,Columbus Crew,Major League Soccer,76,61,66,60,70,83,3000
+169b099c-f72b-11ed-8195-acde48001122,71,,Nanu,,,RB,FC Dallas,Major League Soccer,86,61,63,70,66,73,3000
+1753868e-f721-11ed-8195-acde48001122,85,,Marcelino Moreno,,,CM,Atlanta United,Major League Soccer,84,82,85,88,72,74,3000
+176bbb70-f724-11ed-8195-acde48001122,79,,Javier Hernandez,,,ST,LA Galaxy,Major League Soccer,72,77,64,76,31,68,3000
+17dc126a-f721-11ed-8195-acde48001122,85,,Noble Okello,,,CDM,Toronto FC,Major League Soccer,83,76,80,84,82,86,3000
+187944c8-f72f-11ed-8195-acde48001122,68,,Justin Meram,,,LM,Real Salt Lake,Major League Soccer,69,66,65,71,58,68,3000
+191acbf8-f726-11ed-8195-acde48001122,76,,Ashley Westwood,,,CDM,Charlotte FC,Major League Soccer,56,63,78,73,72,73,3000
+1a0b4ddc-f72e-11ed-8195-acde48001122,69,,Romain Metanire,,,RB,Minnesota United,Major League Soccer,74,35,64,66,65,75,3000
+1b6e22fc-f72f-11ed-8195-acde48001122,68,,Yaw Yeboah,,,RM,Columbus Crew,Major League Soccer,90,64,58,73,25,53,3000
+1be0de2c-f726-11ed-8195-acde48001122,76,,Martin Ojeda,,,RM,Orlando City,Major League Soccer,83,76,73,76,34,61,3000
+1bf945b0-f727-11ed-8195-acde48001122,75,,Alan Velasco,,,LM,FC Dallas,Major League Soccer,83,68,70,81,53,61,3000
+1c68bf4a-f726-11ed-8195-acde48001122,76,,Evander,,,CM,Portland Timbers,Major League Soccer,73,71,76,80,67,69,3000
+1cf8bd60-f727-11ed-8195-acde48001122,75,,Ryan Gauld,,,CAM,Whitecaps FC,Major League Soccer,80,65,75,81,52,51,3000
+1dbf535a-f72f-11ed-8195-acde48001122,68,,Kevin Molino,,,CAM,Columbus Crew,Major League Soccer,70,68,65,70,49,65,3000
+1de85512-f72e-11ed-8195-acde48001122,69,,Steve Birnbaum,,,CB,D.C. United,Major League Soccer,34,31,45,51,68,85,3000
+20c7e6d4-f725-11ed-8195-acde48001122,78,,Sebastian Driussi,,,CAM,Austin FC,Major League Soccer,81,78,73,76,26,69,3000
+20de3aca-f72e-11ed-8195-acde48001122,69,,Keegan Rosenberry,,,CB,Colorado Rapids,Major League Soccer,68,51,62,66,68,74,3000
+21ebcd4a-f721-11ed-8195-acde48001122,85,,Walker Zimmerman,,,CB,Nashville SC,Major League Soccer,79,60,65,68,84,88,3000
+233b2ffa-f72c-11ed-8195-acde48001122,70,,Ismael Tajouri-Shradi,,,RM,New England,Major League Soccer,82,70,63,74,33,56,3000
+233e6870-f725-11ed-8195-acde48001122,78,,Emiliano Rigoni,,,RM,Austin FC,Major League Soccer,83,73,74,78,46,60,3000
+23f8a83a-f72e-11ed-8195-acde48001122,69,,Andrew Farrell,,,CB,New England,Major League Soccer,75,48,64,66,68,78,3000
+25290442-f720-11ed-8195-acde48001122,87,,Giorgio Chiellini,,,CAM,LAFC,Major League Soccer,88,87,85,86,70,84,3000
+25a08a02-f730-11ed-8195-acde48001122,67,,Patryk Klimala,,,ST,Red Bulls,Major League Soccer,82,63,48,64,31,72,3000
+26650382-f72b-11ed-8195-acde48001122,71,,Brandon Bye,,,RB,New England,Major League Soccer,77,58,61,65,68,73,3000
+26c4f626-f72f-11ed-8195-acde48001122,68,,Jader Obrian,,,RM,FC Dallas,Major League Soccer,90,64,59,69,36,60,3000
+27a62644-f727-11ed-8195-acde48001122,75,,Darlington Nagbe,,,CM,Columbus Crew,Major League Soccer,78,65,72,79,64,72,3000
+289f32fc-f72c-11ed-8195-acde48001122,70,,Sebastian Lletget,,,CM,FC Dallas,Major League Soccer,71,64,71,72,60,72,3000
+295c0afc-f728-11ed-8195-acde48001122,74,,Rafael Czichos,,,CB,Chicago Fire FC,Major League Soccer,59,47,59,61,75,77,3000
+2bb9c0c6-f72f-11ed-8195-acde48001122,68,,Ravel Morrison,,,CAM,D.C. United,Major League Soccer,67,63,68,71,47,52,3000
+2c592a2e-f727-11ed-8195-acde48001122,75,,João Paulo,,,CM,Sounders FC,Major League Soccer,72,69,77,75,69,70,3000
+2c70ae68-f72e-11ed-8195-acde48001122,69,,DeAndre Yedlin,,,RB,Inter Miami CF,Major League Soccer,90,51,56,65,64,70,3000
+2d70269a-f729-11ed-8195-acde48001122,73,,Jose Cifuentes,,,CDM,LAFC,Major League Soccer,71,61,67,73,71,77,3000
+2e25e70a-f729-11ed-8195-acde48001122,73,,Artur,,,CDM,Columbus Crew,Major League Soccer,62,51,64,70,69,79,3000
+2f7806d6-f721-11ed-8195-acde48001122,85,,Jonathan Osorio,,,CM,Toronto FC,Major League Soccer,80,76,81,85,75,81,3000
+32ab4ed2-f71f-11ed-8195-acde48001122,88,,Carlos Vela,,,RW,LAFC,Major League Soccer,86,88,85,90,37,73,3000
+32ccf84c-f72a-11ed-8195-acde48001122,72,,Matt Hedges,,,CB,FC Dallas,Major League Soccer,41,28,51,53,71,84,3000
+32e6f2b2-f71e-11ed-8195-acde48001122,91,,Rafael Marquez,,,CB,HERO,Major League Soccer,81,69,78,77,93,91,3000
+33670846-f730-11ed-8195-acde48001122,67,,Maximiliano Urruti,,,ST,Austin FC,Major League Soccer,72,66,62,71,54,69,3000
+33a1d290-f72c-11ed-8195-acde48001122,70,,Russell Canouse,,,CDM,D.C. United,Major League Soccer,65,53,57,65,68,81,3000
+343e437a-f72a-11ed-8195-acde48001122,72,,Guzman Corujo,,,CB,Charlotte FC,Major League Soccer,70,35,46,47,74,74,3000
+348b237a-f72a-11ed-8195-acde48001122,72,,Jonathan Mensah,,,CB,Columbus Crew,Major League Soccer,61,46,56,54,71,80,3000
+3513b8d4-f72a-11ed-8195-acde48001122,72,,Shaquell Moore,,,RB,Nashville SC,Major League Soccer,90,59,62,70,62,76,3000
+35437456-f721-11ed-8195-acde48001122,85,,Bryan Oviedo,,,LB,Real Salt Lake,Major League Soccer,86,72,80,83,80,83,3000
+361bb84a-f729-11ed-8195-acde48001122,73,,Aaron Long,,,CB,Red Bulls,Major League Soccer,78,39,54,62,70,82,3000
+3634e494-f72b-11ed-8195-acde48001122,71,,Bakaye Dibassy,,,CB,Minnesota United,Major League Soccer,71,54,61,65,71,78,3000
+374441ce-f729-11ed-8195-acde48001122,73,,Miles Robinson,,,CB,Atlanta United,Major League Soccer,83,35,54,67,72,78,3000
+37e9168a-f725-11ed-8195-acde48001122,78,,Raul Ruidiaz,,,ST,Sounders FC,Major League Soccer,83,79,66,79,33,69,3000
+382b7316-f72c-11ed-8195-acde48001122,70,,Junior Urso,,,CDM,Orlando City,Major League Soccer,64,64,65,70,66,75,3000
+388b0dec-f72e-11ed-8195-acde48001122,69,,Kemar Lawrence,,,LB,Minnesota United,Major League Soccer,84,47,62,65,63,75,3000
+398ce8fc-f72c-11ed-8195-acde48001122,70,,Alistair Johnston,,,RM,CF Montreal,Major League Soccer,79,51,65,68,68,74,3000
+3bfe9128-f72a-11ed-8195-acde48001122,72,,Jack Elliott,,,CB,Philadelphia,Major League Soccer,52,24,48,50,73,79,3000
+3c813400-f727-11ed-8195-acde48001122,75,,Yimmi Chara,,,CAM,Portland Timbers,Major League Soccer,91,69,67,78,52,71,3000
+3d80c758-f72c-11ed-8195-acde48001122,70,,Deiber Caicedo,,,LM,Whitecaps FC,Major League Soccer,83,63,61,77,35,55,3000
+3dd60bf8-f72e-11ed-8195-acde48001122,69,,Ruben Gabrielsen,,,CB,Austin FC,Major League Soccer,68,48,46,52,68,84,3000
+3eaa2212-f72e-11ed-8195-acde48001122,69,,Lalas Abubakar,,,CB,Colorado Rapids,Major League Soccer,56,32,50,50,66,79,3000
+3fae31dc-f72c-11ed-8195-acde48001122,70,,Jackson Yueill,,,CDM,SJ Earthquakes,Major League Soccer,59,61,68,67,65,72,3000
+400251e6-f72b-11ed-8195-acde48001122,71,,Jesus Murillo,,,CB,LAFC,Major League Soccer,81,38,54,62,71,79,3000
+416d8262-f721-11ed-8195-acde48001122,85,,Javier Hernandez,,,ST,LA Galaxy,Major League Soccer,87,86,74,73,38,75,3000
+41a5355a-f72f-11ed-8195-acde48001122,68,,Sacha Kljestan,,,CM,LA Galaxy,Major League Soccer,43,65,72,65,54,65,3000
+42506636-f726-11ed-8195-acde48001122,76,,Hany Mukhtar,,,CF,Nashville SC,Major League Soccer,80,72,74,78,44,64,3000
+43282b04-f72e-11ed-8195-acde48001122,69,,Derrick Williams,,,CB,LA Galaxy,Major League Soccer,66,46,58,63,66,78,3000
+434a1324-f731-11ed-8195-acde48001122,67,,Frankie Amaya,,,CM,Red Bulls,Major League Soccer,72,54,63,69,62,66,3000
+44e15b70-f731-11ed-8195-acde48001122,67,,Chris Durkin,,,CM,D.C. United,Major League Soccer,57,58,67,65,65,70,3000
+458c97f2-f721-11ed-8195-acde48001122,85,,Clint Dempsey,,,CAM,HERO,Major League Soccer,82,86,81,85,47,80,3000
+45e14b6c-f72b-11ed-8195-acde48001122,71,,Nouhou,,,LB,Sounders FC,Major League Soccer,89,37,56,62,67,85,3000
+46a9622c-f731-11ed-8195-acde48001122,67,,Jordy Alcivar,,,CM,Charlotte FC,Major League Soccer,66,64,67,64,59,69,3000
+47622c90-f730-11ed-8195-acde48001122,67,,Nicholas Gioacchini,,,ST,Orlando City,Major League Soccer,76,66,58,66,26,64,3000
+47d6e41a-f72e-11ed-8195-acde48001122,69,,Eddie Segura,,,CB,LAFC,Major League Soccer,61,30,49,57,68,74,3000
+4803765a-f720-11ed-8195-acde48001122,87,,Lorenzo Insigne,,,LW,Toronto FC,Major League Soccer,90,85,87,86,40,51,3000
+482b30b0-f71f-11ed-8195-acde48001122,88,,Riqui Puig,,,CM,LA Galaxy,Major League Soccer,85,77,87,94,79,78,3000
+483def56-f72a-11ed-8195-acde48001122,72,,Richie Laryea,,,RWB,Toronto FC,Major League Soccer,83,60,64,71,64,71,3000
+4860907c-f72c-11ed-8195-acde48001122,70,,Junior Moreno,,,CDM,FC Cincinnati,Major League Soccer,62,57,68,63,67,75,3000
+4917eaa6-f731-11ed-8195-acde48001122,67,,Jake Mulraney,,,LM,Orlando City,Major League Soccer,88,56,59,68,51,48,3000
+49957f1e-f71f-11ed-8195-acde48001122,88,,Christian Benteke,,,ST,D.C. United,Major League Soccer,87,92,79,87,45,92,3000
+4a481b6a-f724-11ed-8195-acde48001122,79,,Nicolas Lodeiro,,,CAM,Sounders FC,Major League Soccer,69,73,80,81,49,69,3000
+4aa2d634-f72b-11ed-8195-acde48001122,71,,Henry Kessler,,,CB,New England,Major League Soccer,57,27,49,60,71,76,3000
+4b9a7d82-f72e-11ed-8195-acde48001122,69,,Dario Župarić,,,CB,Portland Timbers,Major League Soccer,47,21,46,56,68,79,3000
+4c4b7382-f722-11ed-8195-acde48001122,83,,Facundo Quignon,,,CDM,FC Dallas,Major League Soccer,76,70,78,84,83,87,3000
+005849d4-f72f-11ed-8195-acde48001122,68,,Eryk Williamson,,,CDM,Portland Timbers,Major League Soccer,70,57,67,71,63,69,3500
+00adcc26-f723-11ed-8195-acde48001122,81,,Gareth Bale,,,RW,LAFC,Major League Soccer,80,84,81,79,55,69,3500
+0136b046-f727-11ed-8195-acde48001122,75,,Cucho Hernandez,,,ST,Columbus Crew,Major League Soccer,82,75,65,73,42,74,3500
+0169dad6-f72a-11ed-8195-acde48001122,72,,Matt Miazga,,,CB,FC Cincinnati,Major League Soccer,47,26,47,57,73,77,3500
+01bba5c8-f720-11ed-8195-acde48001122,87,,Hany Mukhtar,,,CF,Nashville SC,Major League Soccer,90,84,86,87,55,76,3500
+01dac4da-f72f-11ed-8195-acde48001122,68,,Cesar Araujo,,,CDM,Orlando City,Major League Soccer,62,53,56,63,63,68,3500
+025b1d1a-f720-11ed-8195-acde48001122,87,,Thiago Martins,,,CB,New York City FC,Major League Soccer,84,57,72,77,87,88,3500
+02660c68-f728-11ed-8195-acde48001122,74,,Gastón Gimenez,,,CDM,Chicago Fire FC,Major League Soccer,64,61,71,73,67,83,3500
+02acbec4-f728-11ed-8195-acde48001122,74,,Albert Rusnak,,,CAM,Sounders FC,Major League Soccer,68,74,74,75,56,66,3500
+03a1f130-f72a-11ed-8195-acde48001122,72,,Anton Tinnerholm,,,RB,New York City FC,Major League Soccer,71,52,66,69,68,75,3500
+05e19828-f72b-11ed-8195-acde48001122,71,,Thiago Martins,,,CB,New York City FC,Major League Soccer,76,41,57,58,71,73,3500
+05f91caa-f730-11ed-8195-acde48001122,68,,Chase Gasper,,,LB,LA Galaxy,Major League Soccer,78,34,55,63,65,72,3500
+05ffc8dc-f723-11ed-8195-acde48001122,81,,Carlos Vela,,,RW,LAFC,Major League Soccer,77,79,76,83,30,64,3500
+090621bc-f72c-11ed-8195-acde48001122,70,,Matt Polster,,,CDM,New England,Major League Soccer,48,46,66,64,65,79,3500
+0ad3b5dc-f730-11ed-8195-acde48001122,68,,Xavier Arreaga,,,CB,Sounders FC,Major League Soccer,57,28,49,56,68,73,3500
+0b58879c-f728-11ed-8195-acde48001122,74,,Luquinhas,,,LM,Red Bulls,Major League Soccer,82,67,68,79,35,57,3500
+0c11023a-f724-11ed-8195-acde48001122,79,,Emanuel Reynoso,,,CAM,Minnesota United,Major League Soccer,67,67,78,80,59,67,3500
+0c16002c-f725-11ed-8195-acde48001122,78,,Brenner,,,ST,FC Cincinnati,Major League Soccer,85,78,71,83,39,61,3500
+0c50e24a-f72b-11ed-8195-acde48001122,71,,Christian Fuchs,,,CB,Charlotte FC,Major League Soccer,48,66,74,67,72,67,3500
+0c771f82-f730-11ed-8195-acde48001122,68,,Martinez,,,CB,FC Dallas,Major League Soccer,44,36,51,53,68,72,3500
+0c8ef91e-f725-11ed-8195-acde48001122,78,,Daniel Gazdag,,,CAM,Philadelphia,Major League Soccer,83,77,73,79,62,71,3500
+0d3e2682-f72f-11ed-8195-acde48001122,68,,Yuya Kubo,,,CM,FC Cincinnati,Major League Soccer,72,63,67,70,62,68,3500
+0dccf16e-f725-11ed-8195-acde48001122,78,,Moussa Djitte,,,ST,Austin FC,Major League Soccer,88,77,64,81,37,79,3500
+0dd087e0-f728-11ed-8195-acde48001122,74,,Andres Cubas,,,CDM,Whitecaps FC,Major League Soccer,69,54,67,73,73,58,3500
+0e998f22-f72e-11ed-8195-acde48001122,69,,Robin Jansson,,,CB,Orlando City,Major League Soccer,51,28,53,59,71,74,3500
+0ff73dc2-f72b-11ed-8195-acde48001122,71,,Nathan,,,CB,SJ Earthquakes,Major League Soccer,73,44,52,58,69,76,3500
+11261546-f72c-11ed-8195-acde48001122,70,,Mark Delgado,,,CDM,LA Galaxy,Major League Soccer,66,52,63,65,66,71,3500
+11a6f67a-f72c-11ed-8195-acde48001122,70,,Matias Vera,,,CDM,Houston Dynamo,Major League Soccer,67,45,65,63,66,67,3500
+1234ba00-f727-11ed-8195-acde48001122,75,,Gonzalo Higuain,,,ST,Inter Miami CF,Major League Soccer,48,79,71,72,28,64,3500
+127a5bee-f72e-11ed-8195-acde48001122,69,,Bill Tuiloma,,,CB,Portland Timbers,Major League Soccer,60,53,64,59,69,76,3500
+1287850c-f72f-11ed-8195-acde48001122,68,,Darwin Ceren,,,CDM,Houston Dynamo,Major League Soccer,46,57,62,62,63,71,3500
+128f4b38-f721-11ed-8195-acde48001122,85,,Luquinhas,,,LM,Red Bulls,Major League Soccer,91,81,82,87,47,69,3500
+12c29020-f725-11ed-8195-acde48001122,78,,Josef Martinez,,,ST,Atlanta United,Major League Soccer,85,79,60,77,25,66,3500
+1463c6a6-f725-11ed-8195-acde48001122,78,,Luiz Araujo,,,RM,Atlanta United,Major League Soccer,88,69,72,83,39,57,3500
+15e57a1a-f725-11ed-8195-acde48001122,78,,Pozuelo,,,CAM,Inter Miami CF,Major League Soccer,64,73,79,80,53,67,3500
+1681aaca-f72a-11ed-8195-acde48001122,72,,Milos Degenek,,,CB,Columbus Crew,Major League Soccer,76,61,66,60,70,83,3500
+169b099c-f72b-11ed-8195-acde48001122,71,,Nanu,,,RB,FC Dallas,Major League Soccer,86,61,63,70,66,73,3500
+1753868e-f721-11ed-8195-acde48001122,85,,Marcelino Moreno,,,CM,Atlanta United,Major League Soccer,84,82,85,88,72,74,3500
+176bbb70-f724-11ed-8195-acde48001122,79,,Javier Hernandez,,,ST,LA Galaxy,Major League Soccer,72,77,64,76,31,68,3500
+17dc126a-f721-11ed-8195-acde48001122,85,,Noble Okello,,,CDM,Toronto FC,Major League Soccer,83,76,80,84,82,86,3500
+187944c8-f72f-11ed-8195-acde48001122,68,,Justin Meram,,,LM,Real Salt Lake,Major League Soccer,69,66,65,71,58,68,3500
+191acbf8-f726-11ed-8195-acde48001122,76,,Ashley Westwood,,,CDM,Charlotte FC,Major League Soccer,56,63,78,73,72,73,3500
+1a0b4ddc-f72e-11ed-8195-acde48001122,69,,Romain Metanire,,,RB,Minnesota United,Major League Soccer,74,35,64,66,65,75,3500
+1b6e22fc-f72f-11ed-8195-acde48001122,68,,Yaw Yeboah,,,RM,Columbus Crew,Major League Soccer,90,64,58,73,25,53,3500
+1be0de2c-f726-11ed-8195-acde48001122,76,,Martin Ojeda,,,RM,Orlando City,Major League Soccer,83,76,73,76,34,61,3500
+1bf945b0-f727-11ed-8195-acde48001122,75,,Alan Velasco,,,LM,FC Dallas,Major League Soccer,83,68,70,81,53,61,3500
+1c68bf4a-f726-11ed-8195-acde48001122,76,,Evander,,,CM,Portland Timbers,Major League Soccer,73,71,76,80,67,69,3500
+1cf8bd60-f727-11ed-8195-acde48001122,75,,Ryan Gauld,,,CAM,Whitecaps FC,Major League Soccer,80,65,75,81,52,51,3500
+1dbf535a-f72f-11ed-8195-acde48001122,68,,Kevin Molino,,,CAM,Columbus Crew,Major League Soccer,70,68,65,70,49,65,3500
+1de85512-f72e-11ed-8195-acde48001122,69,,Steve Birnbaum,,,CB,D.C. United,Major League Soccer,34,31,45,51,68,85,3500
+20c7e6d4-f725-11ed-8195-acde48001122,78,,Sebastian Driussi,,,CAM,Austin FC,Major League Soccer,81,78,73,76,26,69,3500
+20de3aca-f72e-11ed-8195-acde48001122,69,,Keegan Rosenberry,,,CB,Colorado Rapids,Major League Soccer,68,51,62,66,68,74,3500
+21ebcd4a-f721-11ed-8195-acde48001122,85,,Walker Zimmerman,,,CB,Nashville SC,Major League Soccer,79,60,65,68,84,88,3500
+233b2ffa-f72c-11ed-8195-acde48001122,70,,Ismael Tajouri-Shradi,,,RM,New England,Major League Soccer,82,70,63,74,33,56,3500
+233e6870-f725-11ed-8195-acde48001122,78,,Emiliano Rigoni,,,RM,Austin FC,Major League Soccer,83,73,74,78,46,60,3500
+23f8a83a-f72e-11ed-8195-acde48001122,69,,Andrew Farrell,,,CB,New England,Major League Soccer,75,48,64,66,68,78,3500
+25290442-f720-11ed-8195-acde48001122,87,,Giorgio Chiellini,,,CAM,LAFC,Major League Soccer,88,87,85,86,70,84,3500
+25a08a02-f730-11ed-8195-acde48001122,67,,Patryk Klimala,,,ST,Red Bulls,Major League Soccer,82,63,48,64,31,72,3500
+26650382-f72b-11ed-8195-acde48001122,71,,Brandon Bye,,,RB,New England,Major League Soccer,77,58,61,65,68,73,3500
+26c4f626-f72f-11ed-8195-acde48001122,68,,Jader Obrian,,,RM,FC Dallas,Major League Soccer,90,64,59,69,36,60,3500
+27a62644-f727-11ed-8195-acde48001122,75,,Darlington Nagbe,,,CM,Columbus Crew,Major League Soccer,78,65,72,79,64,72,3500
+289f32fc-f72c-11ed-8195-acde48001122,70,,Sebastian Lletget,,,CM,FC Dallas,Major League Soccer,71,64,71,72,60,72,3500
+295c0afc-f728-11ed-8195-acde48001122,74,,Rafael Czichos,,,CB,Chicago Fire FC,Major League Soccer,59,47,59,61,75,77,3500
+2bb9c0c6-f72f-11ed-8195-acde48001122,68,,Ravel Morrison,,,CAM,D.C. United,Major League Soccer,67,63,68,71,47,52,3500
+2c592a2e-f727-11ed-8195-acde48001122,75,,João Paulo,,,CM,Sounders FC,Major League Soccer,72,69,77,75,69,70,3500
+2c70ae68-f72e-11ed-8195-acde48001122,69,,DeAndre Yedlin,,,RB,Inter Miami CF,Major League Soccer,90,51,56,65,64,70,3500
+2d70269a-f729-11ed-8195-acde48001122,73,,Jose Cifuentes,,,CDM,LAFC,Major League Soccer,71,61,67,73,71,77,3500
+2e25e70a-f729-11ed-8195-acde48001122,73,,Artur,,,CDM,Columbus Crew,Major League Soccer,62,51,64,70,69,79,3500
+2f7806d6-f721-11ed-8195-acde48001122,85,,Jonathan Osorio,,,CM,Toronto FC,Major League Soccer,80,76,81,85,75,81,3500
+32ab4ed2-f71f-11ed-8195-acde48001122,88,,Carlos Vela,,,RW,LAFC,Major League Soccer,86,88,85,90,37,73,3500
+32ccf84c-f72a-11ed-8195-acde48001122,72,,Matt Hedges,,,CB,FC Dallas,Major League Soccer,41,28,51,53,71,84,3500
+32e6f2b2-f71e-11ed-8195-acde48001122,91,,Rafael Marquez,,,CB,HERO,Major League Soccer,81,69,78,77,93,91,3500
+33670846-f730-11ed-8195-acde48001122,67,,Maximiliano Urruti,,,ST,Austin FC,Major League Soccer,72,66,62,71,54,69,3500
+33a1d290-f72c-11ed-8195-acde48001122,70,,Russell Canouse,,,CDM,D.C. United,Major League Soccer,65,53,57,65,68,81,3500
+343e437a-f72a-11ed-8195-acde48001122,72,,Guzman Corujo,,,CB,Charlotte FC,Major League Soccer,70,35,46,47,74,74,3500
+348b237a-f72a-11ed-8195-acde48001122,72,,Jonathan Mensah,,,CB,Columbus Crew,Major League Soccer,61,46,56,54,71,80,3500
+3513b8d4-f72a-11ed-8195-acde48001122,72,,Shaquell Moore,,,RB,Nashville SC,Major League Soccer,90,59,62,70,62,76,3500
+35437456-f721-11ed-8195-acde48001122,85,,Bryan Oviedo,,,LB,Real Salt Lake,Major League Soccer,86,72,80,83,80,83,3500
+361bb84a-f729-11ed-8195-acde48001122,73,,Aaron Long,,,CB,Red Bulls,Major League Soccer,78,39,54,62,70,82,3500
+3634e494-f72b-11ed-8195-acde48001122,71,,Bakaye Dibassy,,,CB,Minnesota United,Major League Soccer,71,54,61,65,71,78,3500
+374441ce-f729-11ed-8195-acde48001122,73,,Miles Robinson,,,CB,Atlanta United,Major League Soccer,83,35,54,67,72,78,3500
+37e9168a-f725-11ed-8195-acde48001122,78,,Raul Ruidiaz,,,ST,Sounders FC,Major League Soccer,83,79,66,79,33,69,3500
+382b7316-f72c-11ed-8195-acde48001122,70,,Junior Urso,,,CDM,Orlando City,Major League Soccer,64,64,65,70,66,75,3500
+388b0dec-f72e-11ed-8195-acde48001122,69,,Kemar Lawrence,,,LB,Minnesota United,Major League Soccer,84,47,62,65,63,75,3500
+398ce8fc-f72c-11ed-8195-acde48001122,70,,Alistair Johnston,,,RM,CF Montreal,Major League Soccer,79,51,65,68,68,74,3500
+3bfe9128-f72a-11ed-8195-acde48001122,72,,Jack Elliott,,,CB,Philadelphia,Major League Soccer,52,24,48,50,73,79,3500
+3c813400-f727-11ed-8195-acde48001122,75,,Yimmi Chara,,,CAM,Portland Timbers,Major League Soccer,91,69,67,78,52,71,3500
+3d80c758-f72c-11ed-8195-acde48001122,70,,Deiber Caicedo,,,LM,Whitecaps FC,Major League Soccer,83,63,61,77,35,55,3500
+3dd60bf8-f72e-11ed-8195-acde48001122,69,,Ruben Gabrielsen,,,CB,Austin FC,Major League Soccer,68,48,46,52,68,84,3500
+3eaa2212-f72e-11ed-8195-acde48001122,69,,Lalas Abubakar,,,CB,Colorado Rapids,Major League Soccer,56,32,50,50,66,79,3500
+3fae31dc-f72c-11ed-8195-acde48001122,70,,Jackson Yueill,,,CDM,SJ Earthquakes,Major League Soccer,59,61,68,67,65,72,3500
+400251e6-f72b-11ed-8195-acde48001122,71,,Jesus Murillo,,,CB,LAFC,Major League Soccer,81,38,54,62,71,79,3500
+416d8262-f721-11ed-8195-acde48001122,85,,Javier Hernandez,,,ST,LA Galaxy,Major League Soccer,87,86,74,73,38,75,3500
+41a5355a-f72f-11ed-8195-acde48001122,68,,Sacha Kljestan,,,CM,LA Galaxy,Major League Soccer,43,65,72,65,54,65,3500
+42506636-f726-11ed-8195-acde48001122,76,,Hany Mukhtar,,,CF,Nashville SC,Major League Soccer,80,72,74,78,44,64,3500
+43282b04-f72e-11ed-8195-acde48001122,69,,Derrick Williams,,,CB,LA Galaxy,Major League Soccer,66,46,58,63,66,78,3500
+434a1324-f731-11ed-8195-acde48001122,67,,Frankie Amaya,,,CM,Red Bulls,Major League Soccer,72,54,63,69,62,66,3500
+44e15b70-f731-11ed-8195-acde48001122,67,,Chris Durkin,,,CM,D.C. United,Major League Soccer,57,58,67,65,65,70,3500
+458c97f2-f721-11ed-8195-acde48001122,85,,Clint Dempsey,,,CAM,HERO,Major League Soccer,82,86,81,85,47,80,3500
+45e14b6c-f72b-11ed-8195-acde48001122,71,,Nouhou,,,LB,Sounders FC,Major League Soccer,89,37,56,62,67,85,3500
+46a9622c-f731-11ed-8195-acde48001122,67,,Jordy Alcivar,,,CM,Charlotte FC,Major League Soccer,66,64,67,64,59,69,3500
+47622c90-f730-11ed-8195-acde48001122,67,,Nicholas Gioacchini,,,ST,Orlando City,Major League Soccer,76,66,58,66,26,64,3500
+47d6e41a-f72e-11ed-8195-acde48001122,69,,Eddie Segura,,,CB,LAFC,Major League Soccer,61,30,49,57,68,74,3500
+4803765a-f720-11ed-8195-acde48001122,87,,Lorenzo Insigne,,,LW,Toronto FC,Major League Soccer,90,85,87,86,40,51,3500
+482b30b0-f71f-11ed-8195-acde48001122,88,,Riqui Puig,,,CM,LA Galaxy,Major League Soccer,85,77,87,94,79,78,3500
+483def56-f72a-11ed-8195-acde48001122,72,,Richie Laryea,,,RWB,Toronto FC,Major League Soccer,83,60,64,71,64,71,3500
+4860907c-f72c-11ed-8195-acde48001122,70,,Junior Moreno,,,CDM,FC Cincinnati,Major League Soccer,62,57,68,63,67,75,3500
+4917eaa6-f731-11ed-8195-acde48001122,67,,Jake Mulraney,,,LM,Orlando City,Major League Soccer,88,56,59,68,51,48,3500
+49957f1e-f71f-11ed-8195-acde48001122,88,,Christian Benteke,,,ST,D.C. United,Major League Soccer,87,92,79,87,45,92,3500
+4a481b6a-f724-11ed-8195-acde48001122,79,,Nicolas Lodeiro,,,CAM,Sounders FC,Major League Soccer,69,73,80,81,49,69,3500
+4aa2d634-f72b-11ed-8195-acde48001122,71,,Henry Kessler,,,CB,New England,Major League Soccer,57,27,49,60,71,76,3500
+4b9a7d82-f72e-11ed-8195-acde48001122,69,,Dario Župarić,,,CB,Portland Timbers,Major League Soccer,47,21,46,56,68,79,3500
+4c4b7382-f722-11ed-8195-acde48001122,83,,Facundo Quignon,,,CDM,FC Dallas,Major League Soccer,76,70,78,84,83,87,3500
+4cf1baf8-f722-11ed-8195-acde48001122,83,,Nicolas Lodeiro,,,CAM,Sounders FC,Major League Soccer,76,80,86,87,53,73,3500
+4e004f18-f727-11ed-8195-acde48001122,75,,Victor Wanyama,,,CDM,CF Montreal,Major League Soccer,39,63,66,72,71,88,3500
+4e57d326-f724-11ed-8195-acde48001122,79,,Federico Bernardeschi,,,RM,Toronto FC,Major League Soccer,77,71,79,82,62,66,3500
+4f075d58-f730-11ed-8195-acde48001122,67,,Ake Loba,,,ST,Nashville SC,Major League Soccer,81,66,58,67,24,65,3500
+516cbf66-f72b-11ed-8195-acde48001122,71,,Diego Palacios,,,LB,LAFC,Major League Soccer,75,33,63,70,67,67,3500
+5248424e-f72f-11ed-8195-acde48001122,68,,Roger Espinoza,,,CM,Sporting KC,Major League Soccer,50,67,67,67,67,79,3500
+525aa0b6-f72e-11ed-8195-acde48001122,69,,Donovan Pines,,,CB,D.C. United,Major League Soccer,71,22,39,45,70,77,3500
+54a775a8-f727-11ed-8195-acde48001122,75,,Cristian Roldan,,,RM,Sounders FC,Major League Soccer,74,69,72,75,70,81,3500
+55157600-f72e-11ed-8195-acde48001122,69,,Chris Mavinga,,,CB,Toronto FC,Major League Soccer,83,39,61,61,67,75,3500
+564722b6-f72a-11ed-8195-acde48001122,72,,Maxime Chanot,,,CB,New York City FC,Major League Soccer,51,49,48,50,71,79,3500
+56a7a99c-f72a-11ed-8195-acde48001122,72,,Alan Franco,,,CB,Atlanta United,Major League Soccer,59,34,56,66,71,78,3500
+582950c8-f729-11ed-8195-acde48001122,73,,Alexander Callens,,,CB,New York City FC,Major League Soccer,70,49,49,57,72,78,3500
+584c7b82-f72b-11ed-8195-acde48001122,71,,Ronald Matarrita,,,LB,FC Cincinnati,Major League Soccer,78,49,65,69,68,70,3500
+588a5f74-f726-11ed-8195-acde48001122,76,,Marcelino Moreno,,,CAM,Atlanta United,Major League Soccer,87,70,72,79,53,62,3500
+58b1c932-f727-11ed-8195-acde48001122,75,,Diego Chara,,,CDM,Portland Timbers,Major League Soccer,76,60,65,71,71,80,3500
